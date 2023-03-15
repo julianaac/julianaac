@@ -1,6 +1,6 @@
 ## Hi! I'm Juliana A. C.
 
-- 🔭 Today I work with front-end. 
+- 🔭 Today I work with Full Stack. 
 - 💻 Postgraduated in Computer Science.
 - 🌱 Studying javascript, typescript, angular, spring-boot, Java, MySQL. 
 - 👯 I'm collaborating to create a training management system on WEBACADEMY.
